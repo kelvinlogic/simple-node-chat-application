@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_chat_app",
+  "version": "1.0.0",
+  "description": "simple chat application for nodejs",
+  "author": "kelvin isaiah Ayonga",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.3.7"
+  }
+}

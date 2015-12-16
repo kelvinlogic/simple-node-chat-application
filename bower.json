@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_chat_app",
+  "description": "simple chat application for nodejs",
+  "main": "",
+  "authors": [
+    "kelvin isaiah Ayonga"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery-slimscroll" : "1.3.7"
+  }
+}
